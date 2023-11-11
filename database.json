@@ -1,5 +1,7 @@
 {
-  "username": "Spongebob Squarepants",
-  "email": "spongebob@gmail.com",
-  "password": "krustykrabs"
+  "users": {
+    "username": "Spongebob Squarepants",
+    "email": "spongebob@gmail.com",
+    "password": "krustykrabs"
+  }
 }
